@@ -47,10 +47,10 @@ Estimated feedback parameters:
 
 | Dataset | λ (W m⁻² K⁻¹) |
 |-------|-------|
-| IPSL | -3.53 |
-| CESM2 | -4.94 |
-| MPI-ESM | -4.76 |
-| CERES | -1.05 |
+| IPSL |  -0.5135236877118935 |
+| CESM2 | -0.9377436794459524 |
+| MPI-ESM | -1.151372775094319 |
+| CERES | -1.0477615014825876 |
 
 ## Visualization
 
