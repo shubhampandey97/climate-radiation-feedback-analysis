@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.ipynb_checkpoints
+.env
+
+CERES_EBAF-TOA_Edition4.1-20260303_075023/*
+CMIP6/*
+ERA5_temperature/*
+*.nc
+*.netcdf
+*.hdf
+*.grib
+*.zip
